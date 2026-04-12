@@ -1,5 +1,5 @@
 name: app-build-action-release
-# 推送 Tag 时触发
+# 推送 Tag 时触发。
 on:
   push:
     tags:
